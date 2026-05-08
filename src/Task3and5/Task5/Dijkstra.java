@@ -1,3 +1,5 @@
+package Task3and5.Task5;
+
 public class Dijkstra {
     static final int verticesCount = 5;
 

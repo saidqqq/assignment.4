@@ -1,3 +1,5 @@
+package Task3and5.Task3;
+
 import java.util.*;
 
 public class Graph {
